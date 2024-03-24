@@ -176,12 +176,6 @@ export default function Home() {
           </div>
           <div className="col-md-4">
             <div className="content">
-              <img src={build6} className='w-100' alt="" />
-              <Link className='btnBg py-1 text-decoration-none' target='_blank' to={`https://fastfood2210.netlify.app`}>Visit Site</Link>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div className="content">
               <img src={build7} className='w-100' alt="" />
               <Link className='btnBg py-1 text-decoration-none' target='_blank' to={`https://ososmeedo1.github.io/to-do-list/Assignment.html`}>Visit Site</Link>
             </div>
